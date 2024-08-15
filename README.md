@@ -1,6 +1,6 @@
-# real-estate
----This is a Real Estate Project---
-Technologies
+# real-estate #
+## This is a Real Estate Project #
+# Technologies #
 - HTML
 - CSS
 - JavaScript
